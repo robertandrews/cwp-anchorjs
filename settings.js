@@ -1,2 +1,5 @@
-// anchors.options.visible = 'always';
+anchors.options = {
+    visible: 'always',
+    icon: '#'
+};
 anchors.add('article h3');
