@@ -8,7 +8,7 @@ Contributors: robertandrews
 
 This WordPress plugin adds WordPress support for Bryan Braun's [AnchorJS](https://www.bryanbraun.com/anchorjs/), a Javascript library that can add visual, mid-page anchor links to specified HTML elements.
 
-![AnchorJS examples](https://github.com/bryanbraun/anchorjs/raw/master/docs/img/anchoring-links.png)
+![AnchorJS examples](https://raw.githubusercontent.com/bryanbraun/anchorjs/main/docs/img/anchoring-links.png)
 
 ## Installation
 
